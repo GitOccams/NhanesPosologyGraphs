@@ -1,0 +1,6 @@
+The 1999-2006 Dual Energy X-ray Absorptiometry (DXA) Multiple Imputation Data Files and Technical Documentation
+dxa data from:
+https://wwwn.cdc.gov/Nchs/Nhanes/Dxa/Dxa.aspx
+The 1999-2006 CDC NCHS National Health and Nutrition Examination Survey
+bmx and demo data from:
+https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx
